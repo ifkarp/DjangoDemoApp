@@ -1,0 +1,3 @@
+[submodule "solr"]
+	path = solr
+	url = https://github.com/DDMAL/solr-mvn-template/
